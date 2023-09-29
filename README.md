@@ -3,7 +3,7 @@
 # ColorHighlighter
 
 <p align="center">
-  <img src="./pics/color_highlight.png" width="10%">
+  <img src="./pics/color_highlight.png" width="64px">
 </p>
 
 ColorHighlighter was inspired by the `#FF06B5` color mystery in Cyberpunk 2077. This tool captures a chosen window's content, highlighting this specific color in real-time, aiding fans in observing its presence in-game or elsewhere.
@@ -35,7 +35,7 @@ If no color is provided, the default color `#FF06B5` will be used. Upon running,
 I know my code is not perfect, but hey, it works. If you have any suggestions, feel free to let me know.
 
 <p align="left">
-  <img src="./pics/butitdoesrun.png" width="25%">
+  <img src="./pics/butitdoesrun.png" width="250px">
 </p>
 
 ## License
