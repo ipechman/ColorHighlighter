@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/Code_License-MIT-blue.svg)](LICENSE)
 
-# ColorHighlighter
+# ColorHighlighter v2.0
 
 <p align="center">
   <img src="./pics/color_highlight.png" width="64px">
@@ -34,6 +34,7 @@ If no color is provided, the default color `#FF06B5` will be used. Upon running,
 
 ## Notes
 
+**If you are looking for an older version, please check the branches.** \
 I know my code is not perfect, but hey, it works. If you have any suggestions, feel free to let me know.
 
 <p align="left">
