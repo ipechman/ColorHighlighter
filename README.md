@@ -9,18 +9,20 @@
 ColorHighlighter was inspired by the `#FF06B5` color mystery in Cyberpunk 2077. This tool captures a chosen window's content, highlighting this specific color in real-time, aiding fans in observing its presence in-game or elsewhere.
 
 ## Requirements
+Must have an NVIDIA GPU with CUDA support.
 
+## Installation
 - numpy
 - numba
-- mss
-- pygetwindow
+- opencv-python
+- pywin32
 - tkinter
 - PIL (Pillow)
 
 Install them using pip:
 
 ```bash
-pip install numpy numba mss pygetwindow Pillow
+pip install numpy numba opencv-python pywin32 Pillow
 ```
 ## Usage
 Run the script with an optional hex color argument:
